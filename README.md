@@ -5,10 +5,9 @@
 
 I build the software layer for cinema — the specifications, SDKs, data platforms and interfaces for the industry that puts films in front of audiences.
 
-Product engineer and systems strategist. I take an outcome end to end: framing the problem, writing the spec, shipping the code, and staying with it while it grows. The medium is code. The references are fine artists. The rigour is architectural.
+Product engineer and systems strategist. I like to think a clip wider and longer than the current state, taking the outcome end to end: framing the problem, writing the spec, shipping the code, and staying with it while it grows. The medium is code but I am anchored by fine artists. The rigour is architectural, a way of structuring th.
 
-The work gets measured by what it turns into — something adopted, a standard someone else can build on, a number that moved. Not by what it looked like at handoff.
-
+The work gets measured by what it turns into — something adopted, a standard someone else can build on, a number that moved. Work should always remain in motion, and by not accepting something as static the world - like plastic - can remould itself to your corner of it.
 <img src="assets/rule.svg" width="100%" alt="">
 
 `SELECTED WORK`
