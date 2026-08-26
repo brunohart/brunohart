@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="designedbybruno — design engineer. Cinema software, built by hand.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="designedbybruno — product engineer and systems strategist. Cinema software, built by hand.">
   <defs>
     <filter id="grainD" x="0" y="0" width="100%" height="100%">
       <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/>
@@ -41,11 +41,14 @@
 
     <!-- rubber-stamp label -->
     <g transform="rotate(-0.8 70 262)">
-      <rect x="70" y="242" width="352" height="34" fill="none" stroke="#F0EDE6" stroke-width="1" opacity="0.42"/>
+      <rect x="70" y="242" width="416" height="34" fill="none" stroke="#F0EDE6" stroke-width="1" opacity="0.42"/>
       <text x="86" y="264" font-family="JetBrains Mono, ui-monospace, Menlo, Consolas, monospace"
-            font-size="12.5" letter-spacing="3.1" fill="#F0EDE6" opacity="0.70">DESIGN ENGINEER — AUCKLAND, NZ</text>
+            font-size="12.5" letter-spacing="2.7" fill="#F0EDE6" opacity="0.70">PRODUCT ENGINEER · SYSTEMS STRATEGIST</text>
     </g>
 
+    <!-- location · set level, so the stamp reads as the thing that slipped -->
+    <text x="502" y="264" font-family="JetBrains Mono, ui-monospace, Menlo, Consolas, monospace"
+          font-size="11.5" letter-spacing="2.6" fill="#F0EDE6" opacity="0.48">AUCKLAND, NZ</text>
 
     <!-- cue-mark -->
     <circle cx="1112" cy="62" r="15" fill="none" stroke="#E8823F" stroke-width="2.5" opacity="0.9"/>

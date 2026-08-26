@@ -1,11 +1,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="designedbybruno — design engineer, Auckland NZ. Software for cinema, built by hand, in code." src="assets/banner-light.svg" width="100%">
+  <img alt="designedbybruno — product engineer and systems strategist, Auckland NZ. Software for cinema, built by hand, in code." src="assets/banner-light.svg" width="100%">
 </picture>
 
-I design and build the software layer for cinema — specifications, SDKs, data platforms and interfaces for the industry that puts films in front of audiences.
+I build the software layer for cinema — the specifications, SDKs, data platforms and interfaces for the industry that puts films in front of audiences.
 
-Design engineer, not a designer who hands off. The medium is code. The references are fine artists. The rigour is architectural.
+Product engineer and systems strategist. I take an outcome end to end: framing the problem, writing the spec, shipping the code, and staying with it while it grows. The medium is code. The references are fine artists. The rigour is architectural.
+
+The work gets measured by what it turns into — something adopted, a standard someone else can build on, a number that moved. Not by what it looked like at handoff.
 
 <img src="assets/rule.svg" width="100%" alt="">
 
