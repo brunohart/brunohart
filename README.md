@@ -7,13 +7,11 @@ I build software for cinema.
 
 <img src="assets/rule.svg" width="100%" alt="">
 
-**[stub](https://github.com/brunohart/stub)** — A private archive of every film you saw in a room with strangers.
+**[stub](https://github.com/brunohart/stub)** — A private archive of your movie tickets.
 
 **[changeover](https://github.com/brunohart/changeover)** — Agents hold the seat. The exhibitor keeps the sale.
 
 **[turnaround](https://github.com/brunohart/turnaround)** — The showtime grid, solved.
-
-**[telecine](https://github.com/brunohart/telecine)** — Public-domain cinema, broadcast. You don't press play; you tune in.
 
 **[theatrical](https://github.com/brunohart/theatrical)** — Typed SDKs and tooling for cinema platform APIs.
 
