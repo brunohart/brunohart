@@ -3,7 +3,6 @@
   <img alt="Bruno Hart — product engineer, Auckland NZ." src="assets/banner-light.svg" width="100%">
 </picture>
 
-I build software for cinema.
 
 <img src="assets/rule.svg" width="100%" alt="">
 
