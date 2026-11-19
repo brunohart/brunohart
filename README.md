@@ -6,4 +6,4 @@
 
 <img src="assets/rule.svg" width="100%" alt="">
 
-[designedbybruno.net →](https://designedbybruno.net)
+[brunohart.dev →](https://brunohart.dev)
